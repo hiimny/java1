@@ -1,7 +1,7 @@
 # java1
 JAVA 디지털 컨버전스 실습 - 2022 상반기
 추가 내용
-* 쉽게 표현
+* 쉽게 표현 가능
 * md : mark down
 HTML : hyper text markup language
 수정수정
